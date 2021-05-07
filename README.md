@@ -1,7 +1,7 @@
 # Caffeine
 Give a dose of caffeine to your computer to keep it wake up.
 
-#Prerequisite
+# Prerequisite
 Python 3.x + PIP
 
 win32api
